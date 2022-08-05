@@ -7,7 +7,6 @@ let input = ["4", "3:4", "1:1", "2:2", "4:3"];
 function challenge(input) {
 
     // write code here
-
     let allGas = input;
     let allCost = input;
 
